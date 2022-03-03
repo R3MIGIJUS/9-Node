@@ -1,4 +1,4 @@
-    # Pradedant naują projektą :
+# Pradedant naują projektą :
 
 - npm init ;
 - npm -D live-server;
